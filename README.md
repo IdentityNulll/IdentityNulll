@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**IdentityNulll/IdentityNulll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![IdentityNull's github stats](https://github-readme-stats.vercel.app/api?username=IdentityNulll&show_icons=true&theme=default)
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username==IdentityNulll&color=blue&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Algoritm
+- 🌱 I’m currently learning ElectronJS, React-native
+- 💬 Ask me about nothing :)
+- 📫 How to reach me: [@IdentityNull](https://t.me/IdentityNull) on telegram
+- 😄 Pronouns: IdentityNull, Nydo60,
+- ⚡ Fun fact: Human ?
+
+<a href="https://github.com/azamjonbro">
+<!--   <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
+</a>
