@@ -4,12 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username==IdentityNulll&color=blue&theme=onedark)
 
-- 🔭 I’m currently working at Algoritm
-- 🌱 I’m currently learning ElectronJS, React-native
-- 💬 Ask me about nothing :)
+- 🔭 I’m currently studying 
+- 🌱 I’m currently learning JS, Japanese
+- 💬 Don't ask me about anything please :)
 - 📫 How to reach me: [@IdentityNull](https://t.me/IdentityNull) on telegram
 - 😄 Pronouns: IdentityNull, Nydo60,
-- ⚡ Fun fact: Human ?
+- ⚡ Fun fact: Human?
 
 <a href="https://github.com/azamjonbro">
 <!--   <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
