@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm IdentityNull</h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00bcd4">IdentityNull</span></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IdentityNulll&label=Profile%20views&color=0e75b6&style=flat" alt="IdentityNulll" />
+  <img src="https://komarev.com/ghpvc/?username=IdentityNulll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently studying  
-- 🌱 Learning JavaScript, Japanese  
+- 🌱 Learning JavaScript & Japanese  
 - 💬 Don't ask me about anything please :)  
 - 📫 Reach me on Telegram: [@IdentityNull](https://t.me/IdentityNull)  
 - 😄 Pronouns: IdentityNull, Nydo60  
@@ -17,33 +17,32 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats & Most Used Language
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IdentityNulll&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IdentityNulll&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IdentityNulll&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IdentityNulll&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdentityNulll&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- SPOTIFY WIDGET (Optional) -->
-<!-- 
+### 🎵 Now Playing: *To Watch the Boys to*  
 <p align="center">
-  <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=dark&spin=1" alt="Current Spotify Song" />
+  <img src="https://spotify-readme-vodiylik.vercel.app/api/track/3ktAYNcRHpazJ9qecm3ptn?theme=dark&scan=true&spin=1" alt="To Watch the Boys to" />
 </p>
--->
 
 ---
 
-### 🛠️ Tools & Tech
+### 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
@@ -52,9 +51,9 @@
 
 <p align="center">
   <a href="https://t.me/IdentityNull">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/IdentityNulll">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
