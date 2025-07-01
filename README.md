@@ -30,9 +30,8 @@
 ---
 
 ### 🎵 Now Playing: *To Watch the Boys to*  
-<p align="center">
-  <img src="https://spotify-readme-vodiylik.vercel.app/api/track/3ktAYNcRHpazJ9qecm3ptn?theme=dark&scan=true&spin=1" alt="To Watch the Boys to" />
-</p>
+[![Spotify](https://img.shields.io/badge/Spotify-Music%20to%20Watch%20the%20Boys%20To-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3ktAYNcRHpazJ9qecm3ptn)
+
 
 ---
 
