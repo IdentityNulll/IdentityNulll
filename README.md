@@ -17,42 +17,10 @@
 
 ---
 
-### 📈 GitHub Stats & Most Used Language
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IdentityNulll&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IdentityNulll&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdentityNulll&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🎵 Now Playing: *To Watch the Boys to*  
-[![Spotify](https://img.shields.io/badge/Spotify-Music%20to%20Watch%20the%20Boys%20To-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3ktAYNcRHpazJ9qecm3ptn)
-
-
----
-
-### 🛠️ Tools I Use
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://t.me/IdentityNull">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/IdentityNulll">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=IdentityNulll&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IdentityNulll&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdentityNulll&layout=compact&theme=tokyonight" height="150"/>
 </p>
