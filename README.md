@@ -9,8 +9,8 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently studying  
-- 🌱 Learning JavaScript & Japanese  
-- 💬 Don't ask me about anything please :)  
+- 🌱 Learning React & Japanese  
+- 💬 Don't ask me about anything please :) 
 - 📫 Reach me on Telegram: [@IdentityNull](https://t.me/IdentityNull)  
 - 😄 Pronouns: IdentityNull, Nydo60  
 - ⚡ Fun fact: Human?
