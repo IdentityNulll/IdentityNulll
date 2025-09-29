@@ -8,12 +8,12 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently studying  
-- 🌱 Learning React & Japanese  
+- 🔭 I’m currently working on some projects
+- 🌱 Learning Japanese
 - 💬 Don't ask me about anything please :) 
 - 📫 Reach me on Telegram: [@IdentityNull](https://t.me/IdentityNull)  
-- 😄 Pronouns: IdentityNull, Nydo60  
-- ⚡ Fun fact: Human?
+- 😄 Pronouns: IdentityNull, Nydo
+- ⚡ Fun fact: I'm boring and an AMBIVERT person :|
 
 ---
 
