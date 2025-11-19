@@ -1,14 +1,14 @@
 <h1 align="center">IdentityNull</h1>
 
 <p align="center">
-  Developer • Learning Japanese • Building daily
+  Developer • Introvert 
 </p>
 
 ---
 
 ### 💡 About Me
 - Full-stack developer in progress  
-- Learning Japanese and improving daily discipline  
+- Learning Drawing and improving daily discipline
 - Focused on coding, consistency, and self-growth  
 
 ---
