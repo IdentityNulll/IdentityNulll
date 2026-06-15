@@ -1,15 +1,15 @@
 <h1 align="center">IdentityNull</h1>
 
 <p align="center">
-  Developer • Introvert 
+  Developer • Problem solver
 </p>
 
 ---
 
 ### 💡 About Me
-- Full-stack developer in progress  
-- Learning Drawing and improving daily discipline
-- Focused on coding, consistency, and self-growth  
+- Full-stack developer 
+- Learning new things daily and working on projects
+- Focused on coding, consistency, and self/physical/mental-growth  
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center"><i>✨Fun Fact: Master of None</i></p>
+<p align="center"><i>✨Fun Fact: The problem is not a stable life, It is never challenging yourself within it</i></p>
