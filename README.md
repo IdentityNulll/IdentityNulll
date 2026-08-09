@@ -1,4 +1,4 @@
-<h1 align="center">IdentityNull</h1>
+<h1 align="center">Abubakr Nurmatov</h1>
 
 <p align="center">
   Developer • Problem solver
@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 - Full-stack developer 
-- Learning new things daily and working on projects
+- Curious learner
 - Focused on coding, consistency, and self/physical/mental-growth  
 
 ---
@@ -22,7 +22,7 @@
 
 ### 📊 Stats
 <p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=IdentityNulll&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=IdentityNulll&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
