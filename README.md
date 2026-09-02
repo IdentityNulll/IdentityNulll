@@ -1,15 +1,15 @@
 <h1 align="center">Abubakr Nurmatov</h1>
 
 <p align="center">
-  Developer • Problem solver
+  Developer • Building tools for personal growth.
 </p>
 
 ---
 
 ### 💡 About Me
 - Full-stack developer 
-- Curious learner
-- Focused on coding, consistency, and self/physical/mental-growth  
+- Building personalized tools 
+- Focused on personal growth — physical, mental, and technical
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center"><i>✨Fun Fact: The problem is not a stable life, It is never challenging yourself within it</i></p>
+<p align="center"><i>✨Fun Fact: I've been teaching coding to students of all ages since I was 15 :)</i></p>
