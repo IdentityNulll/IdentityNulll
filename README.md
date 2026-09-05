@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center"><i>✨Fun Fact: I've been teaching coding to students of all ages since I was 14 :)</i></p>
+<p align="center"><i>✨Fun Fact: Your environment decides 70% of who you are.</i></p>
